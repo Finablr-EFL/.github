@@ -1,6 +1,6 @@
 # Welcome to Finablr by Enabling Finance Limited
 
-![Finablr Logo](../logo.png)
+![Finablr Logo](logo.png)
 
 Finablr is a mobile app developed by Enabling Finance Limited, designed to simplify the process of borrowing and lending money. With Finablr, borrowers can easily request loans, while lenders can make loan offers quickly and securely.
 
